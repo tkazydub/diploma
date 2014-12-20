@@ -1,0 +1,1518 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' xmlns:og='http://opengraphprotocol.org/schema/' xmlns:fb='https://www.facebook.com/2008/fbml' id=''>
+  <head prefix='og:http://ogp.me/ns# fb:http://ogp.me/ns/fb# article:http://ogp.me/ns/article#'>
+    <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0' />
+    <link rel='stylesheet' type='text/css' href='/static/style/style.css' media='screen, projection' />
+    <link rel='alternate' type='application/rss+xml' title='Матеріали сайту ua.112.ua' href='http://ua.112.ua/rss' />
+    <!--[if IE 6]><script type='text/javascript' src='/static/js/iehover.js'></script><![endif]-->
+    <script type='text/javascript' src='http://apis.google.com/js/plusone.js'>{lang: 'uk'}</script>
+    <link href='https://plus.google.com/107811653412217220805' rel='publisher' />
+    <link href='https://plus.google.com/104115299213702442771' rel='publisher' />
+    <script type="text/javascript" src="http://vkontakte.ru/js/api/share.js?9" charset="windows-1251"></script>
+  
+<script src='http://platform.twitter.com/widgets.js' type='text/javascript'></script>
+<script type="text/javascript" src="http://vk.com/js/api/openapi.js?101"></script>
+<meta property="fb:admins" content="720208751325563">
+<meta property="fb:app_id" content="1430891270479827">
+<meta property="og:title" content="Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ"/>
+<meta property="og:description" content="Двічі були обстріляні позиції захисників донецького аеропорту"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html"/>
+<meta property="og:image" content="http://image.112.ua/315x210/Oct2014/86870.jpg"/>
+<meta property="og:site_name" content="112.ua"/>
+<title>Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ - Головні новини - ua.112.ua</title>
+<meta name='description' content='Сьогодні в зоні АТО загинув 1 військовослужбовець і 4 поранено' />
+<meta name='keywords' content='АТО,загиблі, поранені, Бахмутка, обстріли, Донецький аеропорт' />
+<meta name='news_keywords' content='АТО,загиблі, поранені, Бахмутка, обстріли, Донецький аеропорт, Донбас' />
+<link rel='stylesheet' type='text/css' href='/static/style/jquery.simplemodal.css' />
+<link rel='stylesheet' type='text/css' href='/static/style/svc.passport.ui.css' />
+<link rel='stylesheet' type='text/css' href='/static/style/section.article.css' />
+<link rel='stylesheet' type='text/css' href='/static/style/gallery_box.css' />
+<script type='text/javascript' src='/static/js/json.min.js'></script>
+<script type='text/javascript' src='/static/js/jquery.min.js'></script>
+<script type='text/javascript' src='/static/js/jquery.form.js'></script>
+<script type='text/javascript' src='/static/js/jquery.simplemodal.js'></script>
+<script type='text/javascript' src='/static/js/jquery.scrollto.js'></script>
+<script type='text/javascript' src='/static/js/jquery.serialscroll.js'></script>
+<script type='text/javascript' src='/static/js/jquery.gallery_box.js'></script>
+<script type='text/javascript' src='/static/js/core.js'></script>
+<script type='text/javascript' src='/static/js/core.ajax.js'></script>
+<script type='text/javascript' src='/static/js/core.passport.js'></script>
+<script type='text/javascript' src='/static/js/player.js'></script>
+<script type='text/javascript' src='/static/js/track_social.js'></script>
+<script type='text/javascript' src='/static/js/adriver.core.2.js'></script>
+<script type='text/javascript' src='/static/js/box_ukrua112ua.js'></script>
+<script type='text/javascript' src='/static/js/scrollpane.js'></script>
+<script type='text/javascript' src='/static/js/swfobject.js'></script>
+<script type='text/javascript'>
+try{$(document).ready(function(){jQuery.core.ajax.init();});}catch(e){};
+var N = 3; var ar_duo1 = Math.floor(Math.random()*N+1);
+try{$(document).ready(function(){scrollpane.focus('.top_focus_strip',{"xpath":".top_focus_strip","step":3});});}catch(e){};
+try{$(document).ready(function(){box_ukrua112ua.right_tabbed_section_news.init('1396474f20788de07a6669bc2c287dfa');});}catch(e){};
+try{$(document).ready(function(){box_ukrua112ua.news_informer.init();});}catch(e){};
+try{$(document).ready(function(){scrollpane.simple('.right_video_last',{"xpath":".right_video_last","step":1,"interval":7500});});}catch(e){};
+try{$(document).ready(function(){scrollpane.simple('.right_photos_last',{"xpath":".right_photos_last","step":1,"interval":10000});});}catch(e){};
+</script>
+</head>
+  <body class=''>
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-45150170-3', '112.ua');
+      ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-45150170-1', '112.ua');
+      ga('send', 'pageview');
+    </script>
+
+    <!-- НАЧАЛО Load Twitter JS-API asynchronously + GA.tracking -->
+    <script type="text/javascript">
+      (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+
+      // Setup a callback to track once the script loads.
+      //twitterWidgets.onload = _ga.trackTwitter;
+
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+      })();
+    </script>
+    <!-- КОНЕЦ Load Twitter JS-API asynchronously + GA.tracking -->
+
+    <div id="fb-root"></div>
+    <script type="text/javascript">
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/ru_RU/all.js#xfbml=1&appId=252219711596051";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+
+    <!-- НАЧАЛО VK.like button -->
+    <div id="vk_api_transport"></div>
+    <script type="text/javascript">
+      VK.init({apiId: 3997417, onlyWidgets: true});
+    </script>
+    <!-- КОНЕЦ VK.like button -->
+
+    <!--Блок подключения библиотеки скриптов Admixer-->
+    <script type='text/javascript'>
+      (function () {
+          var w = window, d = document;
+          w.admixZArr = (w.admixZArr || []);
+          w.admixerSmOptions = (w.admixerSmOptions || {});
+          w.admixerSmOptions.showAdsOnLoad = true;
+          if (!w.admixerSm) {
+              var adms = document.createElement('script');
+              adms.async = true;
+              adms.type = 'text/javascript';
+              adms.src = 'http://cdn.admixer.net/scriptlib/asm2.js?v=3';
+              var node = d.getElementsByTagName('script')[0];
+              node.parentNode.insertBefore(adms, node);
+          }
+      })();
+    </script>
+    <!--Конец блока подключения библиотеки скриптов Admixer-->
+
+    <div id="admixer_async_1790057806"></div>
+    <script type="text/javascript">
+        window.admixZArr = (window.admixZArr || []);
+        window.admixZArr.push({ z: '1bf16d01-99cb-4574-b04c-b1cbb04e6515', ph: 'admixer_async_1790057806'});
+    </script>
+
+    <div id='wrapper'>
+      <div class='top_bannertop_banner'>
+
+  <div id="admixer_async_180981962"></div>
+  <script type="text/javascript">
+      window.admixZArr = (window.admixZArr || []);
+      window.admixZArr.push({ z: '17bf06b6-26b9-45c3-9390-7c1e22effddc', ph: 'admixer_async_180981962'});
+  </script>
+
+</div>
+
+<div id='overheader'>
+  <div class='holder'>
+    <div class='left'>
+    </div>
+    <div class='right'>
+      <form class='ajax passport call-refresh' action='' method='post'>
+        <ul class='inline js_hover'>
+        
+          <li class='inline'>
+            <a href='#' class='passport open-login '>Увійти</a>
+            
+            <ul class='sublogin social_sublogin'>
+              <span class='sublogin_enter'></span>
+              
+                <li class='sublogin_item'>
+                  <a href="#" id="login_112ua_button" class="ua112ua passport open-login">112ua</a>
+                </li>
+              
+                <li class='sublogin_item'>
+                  <a href="http://api.vk.com/oauth/authorize?client_id=3960108&redirect_uri=http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html&display=page&scope=wall,offline" id="login_vk_button" class="vkontakte">ВКонтакте</a>
+                </li>
+              
+                <li class='sublogin_item'>
+                  <a href="https://www.facebook.com/dialog/oauth?client_id=252219711596051&redirect_uri=http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html&scope=publish_actions" id="login_fb_button" class="facebook">Facebook</a>
+                </li>
+              
+                <li class='sublogin_item'>
+                  <a href="https://api.twitter.com/oauth/authenticate?oauth_token=RdoPPteJ3xc8gtvJlJfDFY7UuqndpJ6K" id="login_tw_button" class="twitter">Twitter</a>
+                </li>
+              
+                <li class='sublogin_item'>
+                  <a href="https://accounts.google.com/o/oauth2/auth?response_type=code&redirect_uri=http%3A%2F%2Fua.112.ua%2Foauth2callback&client_id=972701421031.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fplus.login&access_type=offline&approval_prompt=force" id="login_gp_button" class="gplus">Google+</a>
+                </li>
+              
+            </ul>
+            
+          </li>
+        
+          <li class='inline'>
+            <a href='#' class='passport open-register '>Зареєструватись</a>
+            
+          </li>
+        
+        </ul>
+        
+      </form>
+    </div>
+    <div class='clear'></div>
+  </div>
+</div>
+
+<script type='text/javascript'>
+  $(document).ready(function(){
+
+    $('a#makeDefault').click(function() {
+        document.body.style.behavior='url(#default#homepage)';
+        document.body.setHomePage('http://112.ua');
+      });
+
+  })
+
+  function add_favorite(a) {
+    if (getNameBrouser() == "msie") return false;
+    title=document.title;
+    url=document.location;
+    try {
+      // Internet Explorer
+      window.external.AddFavorite(url, title);
+    }
+    catch (e) {
+      try {
+        // Mozilla
+        window.sidebar.addPanel(title, url, "");
+      }
+      catch (e) {
+        // Opera
+        if (typeof(opera)=="object") {
+          a.rel="sidebar";
+          a.title=title;
+          a.url=url;
+          a.href=url;
+          return true;
+        }
+        else {
+          // Unknown
+          alert('Нажмите Ctrl-D чтобы добавить страницу в закладки');
+        }
+      }
+    }
+    return false;
+  }
+
+</script><div id='header'>
+  <div class='holder'>
+    <div class='container'>
+      <div itemscope itemtype="http://schema.org/Organization">
+        <div class='logo' itemprop="logo"><a itemprop="url" id='banner_link' href='http://ua.112.ua/'><img src='/blank.gif' alt='' /></a></div>
+      </div>
+      
+      
+      
+
+      
+      <a href='/' class='sitename'>
+        <span class='first'>112.UA</span>
+        <span class='second'>інформаційна <span>агенція</span></span>
+      </a>
+      <a href='/live' class='live_link'>
+        <span class='first'>Телеканал</span>
+        <span class='second'>пряма трансляція</span>
+      </a>
+      
+      <div class='slogan'>
+        
+      </div>
+      <!-- top search start -->
+      <div id='topsearch'>
+        <form method='get' action='/search/' name='menu_search' id='search' onsubmit="var query_string = document.getElementById('query').value.replace('\'','%27'); location.href = this.action + query_string.replace('/',' '); return false;" >
+          <div>
+            <input class='value' type='text' name='query' maxlength='100' size='20' id='query' value='' />
+            <input class='submit' type='submit' value='' />
+          </div>
+        </form>
+        <div class='clear'></div>
+      </div>
+      <!-- top search end -->
+      <div class='language'>
+        <span class='off'><a href='http://112.ua/'>Pусский</a></span>
+        <span class='disp'> </span>
+        <span class='on'>Українська</span>
+      </div>
+    </div>
+    <div class='clear'></div>
+  </div>
+</div>
+
+<script type='text/javascript'>
+$(document).ready(function(){
+
+  $('.cityes li.select_city a').click(function(){
+    var id = this.id;
+    id = id.replace('city_', '');
+
+    $('ul.weather_holder li').removeClass('selected');
+    $('ul.weather_holder #'+id).addClass('selected');
+    var expires = new Date();
+    expires.setTime(expires.getTime() + (365*24*60*60*1000));
+    document.cookie = 'weather_city=' + id + ';domain=.112.ua;path=/;expires=' + expires.toGMTString();
+
+  });
+
+});
+</script><div id='menu'>
+   <div class='holder'>
+     
+     <ul class='menu js_hover'>
+       
+       <li class='item selected menu_90201 first with_submenu'>
+         <a href='http://ua.112.ua/' target='_self'>Новини</a>
+         <ul class='submenu class'>
+           
+           <li class='subitem selected first'>
+             <a href='http://ua.112.ua/golovni-novyni'>Головні</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/politika'>Політика</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/ekonomika'>Економіка</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/suspilstvo'>Суспільство</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/svit'>Світ</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/avarii-np'>Аварії та НП</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/kriminal'>Кримінал</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/kyiv'>Київ</a>
+           </li>
+           
+           <li class='subitem  last'>
+             <a href='http://ua.112.ua/sport'>Спорт</a>
+           </li>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90257  '>
+         <a href='javascript:void(0);' target='_self'>Аналітика</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90210  '>
+         <a href='http://uamap.112.ua/podii' target='_self'>Події</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90211  '>
+         <a href='http://uamap.112.ua/ochevidec' target='_self'>Я – очевидець</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90212  '>
+         <a href='http://ua.112.ua/video' target='_self'>Відео</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90213  '>
+         <a href='http://ua.112.ua/photo' target='_self'>Фото</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90258  '>
+         <a href='http://ua.112.ua/mnenie' target='_self'>Точка зору</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90214  '>
+         <a href='http://uamap.112.ua/karta' target='_self'>Карта</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90255  with_submenu'>
+         <a href='javascript:void(0);' target='_self'>112 Україна</a>
+         <ul class='submenu class'>
+           
+           <li class='subitem  first'>
+             <a href='http://ua.112.ua/novyny-kanalu'>Новини каналу</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/znay-bilshe'>Знай більше</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/novyny-1'>Новини №1</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/hard_talk'>Люди. Hard talk</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/112_minut'>112 хвилин</a>
+           </li>
+           
+           <li class='subitem  '>
+             <a href='http://ua.112.ua/war_diary'>Воєнний щоденник</a>
+           </li>
+           
+           <li class='subitem  last'>
+             <a href='http://ua.112.ua/week'>Тиждень</a>
+           </li>
+           
+         </ul>
+       </li>
+       
+       <li class='item  menu_90269 last '>
+         <a href='http://journal.112.ua/' target='_self'>Хроніки</a>
+         <ul class='submenu '>
+           
+         </ul>
+       </li>
+       
+     </ul>
+     
+
+      <div class='social_holder'>
+        <div class='vk_holder'><a href='http://vk.com/news112ua' target='_blank'><img border='0' src='/static/img/top_vk.png'></a></div>
+        <div class='fb_holder'><a href='http://facebook.com/news112ua' target='_blank'><img border='0' src='/static/img/top_fb.png'></a></div>
+        <div class='twitter_holder'><a href='http://twitter.com/news112ua' target='_blank'><img border='0' src='/static/img/top_twitter.png'></a></div>
+        <!--//<div class='gp_holder'><a href='https://plus.google.com/b/107811653412217220805/' target='_blank'><img border='0' src='/static/img/top_gp.png'></a></div>//-->
+        <div class='yt_holder'><a href='http://www.youtube.com/channel/UC2bwv8KNtpMQGlApFCnA1Bw' target='_blank'><img border='0' src='/static/img/top_yt.png'></a></div>
+        <div class='ok_holder'><a href='http://www.odnoklassniki.ru/news112ua' target='_blank'><img border='0' src='/static/img/top_ok.png'></a></div>
+        <div class='rss_holder'><a href='http://ua.112.ua/rss' target='_blank'><img border="0" src="/static/img/top_rss.png"></a></div>
+      </div>
+
+      <div class='clear'></div>
+    </div>
+  </div>
+  <script type='text/javascript'>
+    $('#menu .item').click(function(){
+      var _this = this;
+      $('#menu .item.with_submenu').each(function(){
+         $(this).removeClass('selected');
+         if(this == _this) $(this).addClass('selected');
+      });
+    });
+  </script><div class='focus_holder'>
+  <div id='top_focus_strip'>
+    <div class='scrollpane_focus top_focus_strip' >
+      <div class='top'>
+        <span>Рекомендуємо</span>
+        <!--//<span></span>//-->
+      </div>
+
+      <div class='scrollable'>
+        <ul class='list'>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/golovni-novyni/zvernennya-prezidenta-ukrayini-petra-poroshenka-povniy-tekst-140067.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Oct2014/86050.jpg' alt='[фото] порошенко' title='[фото] порошенко' />
+              <h2 class='title'>Звернення президента України Петра Порошенка: повний текст</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/politika/klimkin-vibori-boyovikiv-ne-zavadyat-ukrayini-povernuti-okupovani-regioni-donbasu-140189.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Oct2014/84652.jpg' alt='[фото] Климкин' title='[фото] Климкин' />
+              <h2 class='title'>Україна має намір повернути Донбас</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/golovni-novyni/u-dnr-gotovi-vidnoviti-zv-yazki-z-ukrayinoyu-i-zalishiti-ekonomiku-v-zoni-grivni-140107.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Oct2014/87518.jpg' alt='[фото] Выборы ДНР' title='[фото] Выборы ДНР' />
+              <h2 class='title'>У &quot;ДНР&quot; готові відновити зв&#039;язки з Україною</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/suspilstvo/u-lnr-ogolosili-pro-stvorennya-policiyi-143813.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Nov2014/90414.jpg' alt='[фото] ЛНР' title='[фото] ЛНР' />
+              <h2 class='title'>У &quot;ЛНР&quot; оголосили про створення &quot;поліції&quot;</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/politika/novim-glavoyu-mvs-mozhe-stati-kandidat-vid-bloku-poroshenka-dzherelo-143848.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Jul2014/50647.jpg' alt='[фото] мвд' title='[фото] мвд' />
+              <h2 class='title'>Новим главою МВС може стати кандидат від &quot;Блоку Порошенка&quot;</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/politika/u-derzhdumi-rf-zayavili-scho-uspihi-boyovikiv-rozlyutili-kiyiv-i-zahid-140160.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Mar2014/20545.jpg' alt='[фото] Нарышкин' title='[фото] Нарышкин' />
+              <h2 class='title'>У Держдумі РФ заявили, що успіхи бойовиків розлютили Київ і Захід</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/politika/semenchenko-mozhe-vidmovitisya-vid-mandata-nardepa-zaradi-podalshoyi-sluzhbi-v-ato-143821.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Nov2014/89716.png' alt='[фото] Семенченко' title='[фото] Семенченко' />
+              <h2 class='title'>Семенченко може відмовитися від мандата нардепа</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/suspilstvo/poroshenko-zayaviv-scho-ne-dopustit-pochatku-tretoyi-svitovoyi-viyni-143856.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Nov2014/89983.jpg' alt='[фото] Порошенко123' title='[фото] Порошенко123' />
+              <h2 class='title'>Порошенко не допустить початку Третьої світової війни</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/svit/venesuela-zbila-litak-king-200-yakiy-vtorgsya-v-yiyi-povitryaniy-prostir-140168.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Nov2014/88300.jpg' alt='[фото] самолет венесуэла' title='[фото] самолет венесуэла' />
+              <h2 class='title'>Венесуела збила літак</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/golovni-novyni/situaciya-v-zoni-ato-pogirshilasya-seleznov-140108.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Oct2014/83321.png' alt='[фото] Селезнев' title='[фото] Селезнев' />
+              <h2 class='title'>Ситуація в зоні АТО погіршилася, - Селезньов</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/suspilstvo/nato-boyovikiv-na-shodi-ukrayini-navchayut-blizko-300-oficeriv-rf-140190.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/May2014/35250.jpg' alt='[фото] Филипп Бридлав' title='[фото] Филипп Бридлав' />
+              <h2 class='title'>НАТО: Бойовиків на сході навчають офіцери РФ</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/politika/cvk-oficiyno-nazvala-obranim-421-narodnogo-deputata-143782.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Oct2014/81808.jpg' alt='[фото] Выборы в Раду' title='[фото] Выборы в Раду' />
+              <h2 class='title'>ЦВК оголосила результати виборів</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/suspilstvo/u-dnr-pidtverdili-perekidannya-viyskovoyi-tehniki-v-napryamku-donecka-143823.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Sep2014/76425.jpg' alt='[фото] Боевики ' title='[фото] Боевики ' />
+              <h2 class='title'>У &quot;ДНР&quot; підтвердили перекидання військової техніки в напрямку Донецька</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/kriminal/gpu-ogolosila-pro-pidozru-kerivniku-gu-ukrzaliznici-v-otrimanni-100-tis-griven-habara-143865.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Apr2014/26859.jpg' alt='[фото] Укрзализныця' title='[фото] Укрзализныця' />
+              <h2 class='title'>Суд арештував керівнику ГУ &quot;Укрзалізниці&quot;</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+          <li class='item'>
+            <a href='http://ua.112.ua/golovni-novyni/poroshenko-vimagaye-povnogo-onovlennya-uryadu-140079.html' class='a_link'>
+              <img class='image' src='http://image.112.ua/218x130/Nov2014/88256.png' alt='[фото] Порошенко' title='[фото] Порошенко' />
+              <h2 class='title'>Порошенко вимагає повного оновлення уряду</h2>
+              <!--//<span class='pg'>/</span>//-->
+            </a>
+            <!--//
+            //-->
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class='navigate'>
+        <span class='prev'><a href='#'>&lt;</a></span>
+        <span class='next'><a href='#'>&gt;</a></span>
+      </div>
+
+      <div class='clear'></div>
+    </div>
+  </div>
+</div>
+
+      <div class='central_holder'>
+      <div id='container'>
+        <div class='holder'>
+
+          <div id='left'>
+            <div itemscope itemtype=http://schema.org/Article>
+  
+
+  <div class='wrapper_10px'>
+    <div class='block_news '>
+      
+
+  
+    <table width="692" cellspacing=0 cellpadding=0 border=0>
+      <tr>
+        <td valign=top width="680">
+          <h1 class='title' style="width:668px" itemprop="headline name">Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ</h1>
+        </td>
+      </tr>
+    </table>
+    
+  
+
+  
+
+  <div class='info ontop'>
+    <div class='buttons'>
+      <span class='date'>Сьогодні, 21:50 </span>
+      
+      
+    </div>
+
+
+
+    <noindex>
+      <div class='social_links_top'>
+        <div class='g_button'><div class="g-plusone" data-annotation="none"></div></div>
+
+        <div class='twitter_holder'>
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html" data-lang="ru">Твитнуть</a>
+          <script type="text/javascript">!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+        </div>
+        <div class='vk_holder'>
+          <div id="vk_like"></div>
+          <script type="text/javascript">
+            VK.Widgets.Like("vk_like", {type: "button"});
+          </script>
+        </div>
+        <div class='fb_holder'>
+          <div class="fb-like" data-width="22px" data-href="http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+        </div>
+      </div>
+    </noindex>
+    <div class='clear'></div>
+  </div>
+
+  
+
+  
+  <h2 class='descr' itemprop="alternativeHeadline">Двічі були обстріляні позиції захисників донецького аеропорту</h2>
+  
+
+  
+
+  <div class='news_content'>
+    
+    <div id="art_banner" class='' style="position:static; width:100%; text-align: center; margin-bottom:20px;">
+      <noindex>
+
+      </noindex>
+    </div>
+    
+
+    
+      
+      
+      
+      <div id='news_text' class='news_text' itemprop="articleBody">
+        
+        <p>
+  <div class='picture aleft'>
+    <a rel='gallerybox[Preview][http://image.112.ua/225x130/Oct2014/86870.jpg]' href='http://image.112.ua/original/Oct2014/86870.jpg' title='' class='image'>
+      <img itemprop="image" src='http://image.112.ua/225x130/Oct2014/86870.jpg' alt='обстрел арта' />
+    </a>
+    <div class='info'>
+      
+      
+      <div class='source'>Фото из открытых источников</div>
+      
+    </div>
+  </div>
+Сьогодні в зоні АТО загинуло двоє військовослужбовців, 9 поранено. Про це в ефірі телеканалу "112 Україна" заявив прес-офіцер АТО Владислав Селезньов.</p>
+<p>"Сьогодні в боях під час обстрілів в різних районах АТО Україна безповоротно втратила 2 українських військовослужбовців. Ще 9 отримали поранення", - заявив Селезньов.</p>
+<p><div class='article_attached aleft'>
+  Подібні новини:  <a href='/golovni-novyni/boyoviki-zayavlyayut-scho-pochali-obstril-poziciy-sil-ato-v-rayoni-trasi-bahmutka-ta-debalceve-144705.html'>Бойовики заявляють, що почали обстріл позицій сил АТО в районі траси Бахмутка та Дебальцевого</a>
+</div>
+
+</p>
+<p>Повідомляється, що ситуація в районі траси Бахмутка залишається складною. Велика частина з 15 обстрілів, які здійснили бойовики протягом дня, була зосереджена на блокпостах, опорних і спостережних пунктах, що дислокуються в цьому районі. Бойовики вели обстріл з мінометів та артилерії. Сили АТО наносили вогневі удари, пригнічуючи вогневі точки бойовиків.</p>
+<p>За інформацією АТЦ, з метою дестабілізації ситуації на Донбасі, бойовики ведуть вогонь по мирних жителях регіону.</p>
+<p>"Двічі з артилерії обстріляно Гранітне, мінометами - Кримське. Інформації про постраждалих мирних жителів не надходило", - сказано у повідомленні.</p>
+<p>У прес-центрі АТО повідомляють, що сьогодні двічі були обстріляні захисники донецького аеропорту, які відбили атаку.</p>
+<p>"Ми прийняли додаткові заходи для посилення оборони цього стратегічного об'єкта", - заявили в АТЦ.</p>
+<p>Повідомляється, що на півдні зони АТО ситуація стабільна.</p>
+<p>Нагадаємо, за минулу добу, за даними РНБО, <a href="http://112.ua/glavnye-novosti/v-zone-ato-za-proshedshie-sutki-pogib-1-voennyy-i-5-raneny-snbo-144659.html">у зоні АТО загинув 1 військовий і 5 поранені</a>.</p>
+      </div>
+    
+
+    <div class='clear'></div>
+    
+
+    <div class='sl_bottom_holder'>
+      <noindex>
+        <div class='social_links'>
+          <span style='font:normal normal 13px arial; color:#444; float:left; margin:2px 10px 0 0px;'>Поділитися</span>
+          <div class="share42init"></div>
+          <script type="text/javascript" src="/static/js/share42.js"></script>
+        </div>
+      </noindex>
+    </div>
+
+    
+    <div class='news_tags'>
+      <span style='color:#444;'>Теги:</span>
+      
+      <a href='http://ua.112.ua/tags/АТО'>АТО,</a>
+      
+      <a href='http://ua.112.ua/tags/загиблі'>загиблі,</a>
+      
+      <a href='http://ua.112.ua/tags/поранені'>поранені,</a>
+      
+      <a href='http://ua.112.ua/tags/Бахмутка'>Бахмутка,</a>
+      
+      <a href='http://ua.112.ua/tags/обстріли'>обстріли,</a>
+      
+      <a href='http://ua.112.ua/tags/донецький аеропорт'>донецький аеропорт</a>
+      
+    </div>
+    
+  </div>
+  <div class='clear'></div>
+  <div class='info'>
+    <div class='buttons'>
+      <a href='mailto:?subject=Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ' class='send'>Відправити</a>
+      <a href='/article/print/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html' class='print' onclick='window.open("/article/print/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html", "doc_print", "toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=660,height=500"); return false;'>Роздрукувати</a>
+    </div>
+    <span class='source'>
+      <span class='caption'>Джерело:</span>
+      <span class='link'>
+        
+          
+          
+            112.ua
+          
+        
+        
+      </span>
+    </span>
+    <div class='clear'></div>
+  </div>
+
+  <div class='mistake'>
+    <form id='mistake_form' class='ajax form' action='/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html#mistake_msg' method='post' enctype='multipart/form-data' rel='{"connector":"box_ukrua112ua","point":"central_article"}'>
+      <div class='caption'>Побачили помилку?</div>
+      <div class='content'>Будь ласка, виділіть її мишкою та натисніть Ctrl+Enter</div>
+      <input type='hidden' id='mistake_text' name='mistake_text' value='' />
+      <input type='hidden' name='action' value='mistake' />
+    </form>
+    <div id='mistake_msg'></div>
+  </div>
+
+  <div class='clear'></div>
+
+  <script type='text/javascript'>var is_admin = parseInt('0');</script>
+
+    </div>
+  </div>
+
+
+
+    <div class='attached_news'>
+      <div class='head'><span>Читати далі</span></div>
+      <div class='list'>
+
+        <script type="text/javascript" data-key="628D-40BF-F4D7-4676-1XHsIT">
+          var __nc_widgets = __nc_widgets || [];
+          var __nc_j = __nc_j || null;
+
+          __nc_widgets.push(['628D-40BF-F4D7-4676-1XHsIT', 'ua.112.ua', 'recommendation', 1, 1, 0, 'ua']);
+
+          (function() {
+            var __nc = document.createElement('script'); __nc.type = 'text/javascript'; __nc.async = true; __nc.id = 'Nextclick_Manager';
+            __nc.src = 'http://nextclick.com.ua/widget/widget.recommendation.1.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(__nc, s);
+          })();
+        </script>
+
+      </div>
+      <div class='clear'></div>
+    </div>
+
+      <div id="admixer_async_1928701265"></div>
+      <script type="text/javascript">
+          window.admixZArr = (window.admixZArr || []);
+          window.admixZArr.push({ z: '62b21c27-29c8-4b9d-80e6-21e127f16122', ph: 'admixer_async_1928701265'});
+      </script>
+
+      <div class='clear'></div>
+    </noindex>
+
+
+    
+
+<script type='text/javascript'>
+  box_ukrua112ua.central_article.init();
+
+  if(is_admin == 0) {
+    var browser = getNameBrouser();
+    switch(browser) {
+      case('gecko'):
+        document.oncopy = addLink;
+      break;
+
+      case('opera'):
+      break;
+
+      case('msie'):
+        window.document.body.attachEvent('oncopy', addLink);
+      break;
+
+      default:
+      break;
+    }
+  }
+</script>
+</div><p style='margin:  10px;font-size: 16px;'>Шановні читачі!<br /><br />Можливість коментування тимчасово відключена через збільшення кількості агресивних коментарів.</p><!--#aftercontainer [START]-->
+<div id='aftercontainer'>
+  <div class='holder'>
+    <div class='partner_news no_right_padding'>
+      <noindex>
+        <div class='p_head'><span>Новини партнерів</span></div>
+        <div class='p_foot'>
+
+          <!--  News Join -->
+          <div class="join_informer_2866" id="join_informer_2866">
+          <a href="http://weather.join.ua">Погода</a>, <a
+          href="http://news.join.ua">Новости</a>, загрузка...
+          </div>
+
+          <!-- Асинхронный код, 16.01.2014 -->
+          <script type="text/javascript">  (function() {
+          var i = document.createElement("script"); i.type = "text/javascript";
+          i.async = true; i.charset = "UTF-8";
+          i.src = "http://partner.join.com.ua/async/2866/";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(i, s);
+          })();</script>
+          <!--  News Join -->
+
+          <div id="n4p_28197">Loading...</div>
+          <script type="text/javascript" charset="utf-8">
+            (function(d,s){
+              var o=d.createElement(s);
+              o.async=true;
+              o.type="text/javascript";
+              o.charset="utf-8";
+              o.src="http://js.ru.redtram.com/n4p/0/28/ticker_28197.js";
+              var x=d.getElementsByTagName(s)[0];
+              x.parentNode.insertBefore(o,x);
+            })(document,"script");
+          </script>
+          <div class='clear'></div>
+        </div>
+      </noindex>
+    </div>
+  </div>
+</div>
+<!--#aftercontainer [END]-->
+            <div class='clear'></div>
+            
+          </div>
+
+          <!--#block_right [START]-->
+          <div id='right'>
+
+            <div class='wrapper_10px right_banner3'>
+  <script type='text/javascript'>
+  (function () {
+      var w = window, d = document;
+      w.admixZArr = (w.admixZArr || []);
+      w.admixerSmOptions = (w.admixerSmOptions || {});
+      w.admixerSmOptions.showAdsOnLoad = true;
+      if (!w.admixerSm) {
+          var adms = document.createElement('script');
+          adms.async = true;
+          adms.type = 'text/javascript';
+          adms.src = 'http://cdn.admixer.net/scriptlib/asm2.js?v=3';
+          var node = d.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(adms, node);
+      }
+  })();
+  </script>
+
+  <div id="admixer_async_803312908"></div>
+  <script type="text/javascript">
+      window.admixZArr = (window.admixZArr || []);
+      window.admixZArr.push({ z: '8a2e43be-dc84-412f-bc3e-4bfae7e245e3', ph: 'admixer_async_803312908'});
+  </script>
+</div><div class='wrapper_10px right_banner_1' style=''>
+  
+  
+  <noindex>
+    <div id="admixer_async_29029711"></div>
+    <script type="text/javascript">
+        window.admixZArr = (window.admixZArr || []);
+        window.admixZArr.push({ z: '4527c2dd-9e70-41b8-9e1a-a63ca65b56aa', ph: 'admixer_async_29029711'});
+    </script>
+  <noindex>
+  
+</div><div class='wrapper_10px'>
+  <div class='category_container' id='1396474f20788de07a6669bc2c287dfa'>
+  
+    
+  <div class='head_container'>
+    <form action='/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html#1396474f20788de07a6669bc2c287dfa' method='POST' enctype='multipart/form-data' class='ajax category_selector' rel='{"connector":"box_ukrua112ua","point":"right_tabbed_section_news"}'>
+      <ul id='category_sel' class='head_sel sel_box_closed'>
+        
+        <li class='item  selected' id='sel_section_90203'><a href='javascript:void(0)'>Головні новини</a></li>
+        
+        <li class='item ' id='sel_section_90204'><a href='javascript:void(0)'>Політика</a></li>
+        
+        <li class='item ' id='sel_section_90205'><a href='javascript:void(0)'>Економіка</a></li>
+        
+        <li class='item ' id='sel_section_90206'><a href='javascript:void(0)'>Суспільство</a></li>
+        
+        <li class='item ' id='sel_section_90207'><a href='javascript:void(0)'>Світ</a></li>
+        
+        <li class='item ' id='sel_section_90208'><a href='javascript:void(0)'>Аварії та НП</a></li>
+        
+        <li class='item ' id='sel_section_90209'><a href='javascript:void(0)'>Кримінал</a></li>
+        
+        <li class='item ' id='sel_section_90252'><a href='javascript:void(0)'>Київ</a></li>
+        
+        <li class='item ' id='sel_section_90259'><a href='javascript:void(0)'>Вибори президента</a></li>
+        
+        <li class='item ' id='sel_section_90261'><a href='javascript:void(0)'>Вибори у Києві</a></li>
+        
+        <li class='item ' id='sel_section_90263'><a href='javascript:void(0)'>Вибори у регіонах</a></li>
+        
+      </ul>
+      <input type='hidden' name='id_resource' value='90002' />
+      <input type='hidden' id='sel_id_section' name='id_section' value='90203' />
+    </form>
+  </div>
+
+    <div class='news_informer ' id=''>
+  
+    <form action='#3ce4bc17c320bf4c70ed6dbda9f11e1e' method='POST' enctype='multipart/form-data' class='ajax 3ce4bc17c320bf4c70ed6dbda9f11e1e' rel='{"connector":"box_ukrua112ua","point":"news_informer"}'>
+      <ul class='tabs'>
+        
+        <li id='news_informer_tab_1' class='item  selected'>
+          <a href='javascript:void(0)'>нові</a>
+        </li>
+        
+        <li id='news_informer_tab_2' class='item '>
+          <a href='javascript:void(0)'>популярні</a>
+        </li>
+        
+        <li id='news_informer_tab_3' class='item  last'>
+          <a href='javascript:void(0)'>обговорювані</a>
+        </li>
+        
+      </ul>
+      <input type='hidden' name='type' class='type' value='1' />
+      <input type='hidden' name='id_section' value='90203' />
+      <input type='hidden' name='limit' value='7' />
+      <input type='hidden' name='linkall' value='' />
+      <input type='hidden' name='limit_days' value='7' />
+    </form>
+
+      <div class='content_informer ni_content_1'>
+        <ul class='list'>
+        
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title selected'>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html'><img src='http://image.112.ua/80x60/Oct2014/86870.jpg' alt='Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/sogodni-v-zoni-ato-zaginuv-1-viyskovosluzhbovec-i-4-poraneno-atc-144947.html'>Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/pidpisannya-koaliciynoyi-ugodi-ne-dopomozhe-radi-zibratisya-nastupnogo-dnya-yuriy-lucenko-144959.html'><img src='http://image.112.ua/80x60/Nov2014/91330.jpg' alt='Підписання коаліційної угоди не допоможе Раді зібратися наступного дня, - Юрій Луценко' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/pidpisannya-koaliciynoyi-ugodi-ne-dopomozhe-radi-zibratisya-nastupnogo-dnya-yuriy-lucenko-144959.html'>Підписання коаліційної угоди не допоможе Раді зібратися наступного дня, - Юрій Луценко</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              <span class='link'><a href='http://ua.112.ua/golovni-novyni/pidpisannya-koaliciynoyi-ugodi-ne-dopomozhe-radi-zibratisya-nastupnogo-dnya-yuriy-lucenko-144959.html#video' class='video'>&nbsp;</a></span>
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/gpu-skasuvala-rishennya-sudu-pro-styagnennya-z-derzhpidpriyemstva-56-mln-griven-zgidno-z-kiotskim-protokolom-144911.html'><img src='http://image.112.ua/80x60/Aug2014/66401.jpg' alt='ГПУ скасувала рішення суду про стягнення з держпідприємства 56 млн гривень згідно з Кіотським протоколом' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/gpu-skasuvala-rishennya-sudu-pro-styagnennya-z-derzhpidpriyemstva-56-mln-griven-zgidno-z-kiotskim-protokolom-144911.html'>ГПУ скасувала рішення суду про стягнення з держпідприємства 56 млн гривень згідно з Кіотським протоколом</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/povidomlennya-pro-zaminuvannya-harkivskoyi-oda-viyavilosya-nepravdivim-144905.html'><img src='http://image.112.ua/80x60/Nov2014/91293.jpg' alt='Повідомлення про замінування Харківської ОДА виявилося хибним' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/povidomlennya-pro-zaminuvannya-harkivskoyi-oda-viyavilosya-nepravdivim-144905.html'>Повідомлення про замінування Харківської ОДА виявилося хибним</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/mandat-sposterigachiv-obsye-dozvolyaye-yim-perebuvati-na-kpp-doneck-i-gukovo-ale-ne-vzdovzh-kordonu-pikar-144892.html'><img src='http://image.112.ua/80x60/Nov2014/91288.jpg' alt='Мандат спостерігачів ОБСЄ дозволяє їм перебувати на КПП &quot;Донецьк&quot; і &quot;Гуково&quot;, але не вздовж кордону, - Пікар' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/mandat-sposterigachiv-obsye-dozvolyaye-yim-perebuvati-na-kpp-doneck-i-gukovo-ale-ne-vzdovzh-kordonu-pikar-144892.html'>Мандат спостерігачів ОБСЄ дозволяє їм перебувати на КПП &quot;Донецьк&quot; і &quot;Гуково&quot;, але не вздовж кордону, - Пікар</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              <span class='link'><a href='http://ua.112.ua/golovni-novyni/mandat-sposterigachiv-obsye-dozvolyaye-yim-perebuvati-na-kpp-doneck-i-gukovo-ale-ne-vzdovzh-kordonu-pikar-144892.html#video' class='video'>&nbsp;</a></span>
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item '>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/osobi-z-otochennya-rodichiv-savchenko-gotovi-domovlyatisya-zi-slidstvom-feygin-144891.html'><img src='http://image.112.ua/80x60/Sep2014/71781.png' alt='Особи з оточення родичів Савченко готові домовлятися зі слідством, - Фейгін' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/osobi-z-otochennya-rodichiv-savchenko-gotovi-domovlyatisya-zi-slidstvom-feygin-144891.html'>Особи з оточення родичів Савченко готові домовлятися зі слідством, - Фейгін</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+          <li class='item item_last'>
+            
+            <strong class='time'></strong>
+            <div class='news'>
+              
+              <div class=''></div>
+              <div class='link_title '>
+                <span class='sel_plash'></span><a  href='http://ua.112.ua/golovni-novyni/u-dnr-zayavili-scho-somiy-rosiyskiy-gumanitarniy-konvoy-pribude-13-listopada-144860.html'><img src='http://image.112.ua/80x60/Oct2014/87590.jpg' alt='У &quot;ДНР&quot; заявили, що сьомий російський гуманітарний конвой прибуде 13 листопада' class='image' /></a>
+                
+                
+                <a class='title' href='http://ua.112.ua/golovni-novyni/u-dnr-zayavili-scho-somiy-rosiyskiy-gumanitarniy-konvoy-pribude-13-listopada-144860.html'>У &quot;ДНР&quot; заявили, що сьомий російський гуманітарний конвой прибуде 13 листопада</a>
+              </div>
+              <span class='comment'></span>
+              
+              
+              
+              
+              
+              
+              
+            </div>
+            <div class='clear'></div>
+          </li>
+          
+        </ul>
+        
+      </div>
+  <script type='text/javascript'>box_ukrua112ua.news_informer.initialize('3ce4bc17c320bf4c70ed6dbda9f11e1e');</script>
+</div>
+  
+  </div>
+</div>
+<div class='clear'></div><div class='scrollpane_simple right_video_last' id='right_video_last'>
+  <div class='includes'>
+    <a href='http://ua.112.ua/video' class='head'>Відео</a>
+    <div class='navigator'>
+      
+      <a href='javascript:void(0)' class='btn_nav  btn_sel' rel='0'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='1'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='2'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='3'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='4'>&nbsp;</a>
+      
+      <div class='clear'></div>
+    </div>
+    <span class='prev'><a href='#'>&lt;</a></span>
+    <span class='next'><a href='#'>&gt;</a></span>
+    <div class='scrollable'>
+      <ul class='list'>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/video/biyci-specbatalyoniv-mvs-pislya-viyni-zmozhut-prodovzhiti-sluzhbu-u-ministerstvi-shkiryak.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91359.jpg' alt='[фото] Бійці спецбатальйонів МВС після війни зможуть продовжити службу у міністерстві, - Шкіряк' /><br class='hidden' />
+            <span class='caption'>Бійці спецбатальйонів МВС після війни зможуть продовжити службу у міністерстві, - Шкіряк</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/video/obminom-polonenimi-zaymayetsya-sbu-ce-spilna-domovlenist-z-mvs-shkiryak.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91368.jpg' alt='[фото] Обміном полоненими займається СБУ, це спільна домовленість з МВС, - Шкіряк' /><br class='hidden' />
+            <span class='caption'>Обміном полоненими займається СБУ, це спільна домовленість з МВС, - Шкіряк</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/video/sogodni-v-zoni-ato-zaginulo-2-viyskovosluzhbovciv-ta-9-poraneni-atc.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91373.jpg' alt='[фото] Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ ' /><br class='hidden' />
+            <span class='caption'>Сьогодні в зоні АТО загинуло 2 військовослужбовців та 9 поранені, - АТЦ </span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/video/sili-pravogo-sektoru-pokidayut-doneckiy-aeroport.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91365.jpg' alt='[фото] Сили &quot;Правого сектору&quot; покидають Донецький аеропорт' /><br class='hidden' />
+            <span class='caption'>Сили &quot;Правого сектору&quot; покидають Донецький аеропорт</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/video/seleznov-pro-situaciyu-v-zoni-ato-12-11-2014.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91324.jpg' alt='[фото] Селезньов про ситуацію в зоні АТО 12.11.2014' /><br class='hidden' />
+            <span class='caption'>Селезньов про ситуацію в зоні АТО 12.11.2014</span>
+            
+          </a>
+          
+        </li>
+        
+      </ul>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div><div class='scrollpane_simple right_photos_last' id='right_photos_last'>
+  <div class='includes'>
+    <a href='http://ua.112.ua/photo/' class='head'>Фото</a>
+    <div class='navigator'>
+      
+      <a href='javascript:void(0)' class='btn_nav  btn_sel' rel='0'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='1'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='2'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='3'>&nbsp;</a>
+      
+      <a href='javascript:void(0)' class='btn_nav ' rel='4'>&nbsp;</a>
+      
+      <div class='clear'></div>
+    </div>
+    <span class='prev'><a href='#'>&lt;</a></span>
+    <span class='next'><a href='#'>&gt;</a></span>
+    <div class='scrollable'>
+      <ul class='list'>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/avarii-np/harkivski-partizani-pogrozhuvali-pidirvati-bar-u-harkovi-a-poshkodili-vodogin-144140.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/90860.jpg' alt='[фото] &quot;Харківські партизани&quot; погрожували підірвати бар у Харкові, а пошкодили водогін' /><br class='hidden' />
+            <span class='caption'>&quot;Харківські партизани&quot; погрожували підірвати бар у Харкові, а пошкодили водогін</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/photo/potribna-dopomoga-biycevi-ato-pavlovi-horoshunu-144277.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/90943.jpg' alt='[фото] Потрібна допомога бійцеві АТО Павлові Хорошуну' /><br class='hidden' />
+            <span class='caption'>Потрібна допомога бійцеві АТО Павлові Хорошуну</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/photo/potribna-dopomoga-biycevi-ato-viktoru-orendovskomu-145014.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/91382.jpg' alt='[фото] Потрібна допомога бійцеві АТО Віктору Орендовському' /><br class='hidden' />
+            <span class='caption'>Потрібна допомога бійцеві АТО Віктору Орендовському</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/photo/u-hodi-zavorushen-u-varshavi-zatrimano-ponad-200-demonstrantiv-144330.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/90982.jpg' alt='[фото] У ході заворушень у Варшаві затримано понад 200 демонстрантів' /><br class='hidden' />
+            <span class='caption'>У ході заворушень у Варшаві затримано понад 200 демонстрантів</span>
+            
+          </a>
+          
+        </li>
+        
+        <li class='item '>
+          <a href='http://ua.112.ua/suspilstvo/u-zaporizhzhi-vstanovlyuyut-modulni-budinki-dlya-pereselenciv-z-donbasu-143919.html' class='link'>
+            <img class='image' src='http://image.112.ua/315x210/Nov2014/90714.jpeg' alt='[фото] У Запоріжжі встановлюють модульні будинки для переселенців з Донбасу' /><br class='hidden' />
+            <span class='caption'>У Запоріжжі встановлюють модульні будинки для переселенців з Донбасу</span>
+            
+          </a>
+          
+        </li>
+        
+      </ul>
+      <div class='clear'></div>
+    </div>
+  </div>
+</div><div class='wrapper_10px right_banner_1' style='margin:10px 0 -10px;'>
+  <noindex>
+    <!-- Яндекс.Директ -->
+    <script type="text/javascript">
+    yandex_partner_id = 128068;
+    yandex_site_bg_color = 'FFFFFF';
+    yandex_ad_format = 'direct';
+    yandex_direct_type = '300x300';
+    yandex_direct_border_type = 'block';
+    yandex_direct_header_bg_color = 'FEEAC7';
+    yandex_direct_bg_color = 'FFFFFF';
+    yandex_direct_border_color = 'D8D8D8';
+    yandex_direct_title_color = '16284C';
+    yandex_direct_url_color = 'D3312D';
+    yandex_direct_text_color = '444444';
+    yandex_direct_hover_color = 'D3312D';
+    yandex_direct_favicon = false;
+    yandex_no_sitelinks = true;
+    document.write('<scr'+'ipt type="text/javascript" src="//an.yandex.ru/system/context.js"></scr'+'ipt>');
+    </script>
+  <noindex>
+</div>
+          </div>
+          <!--#block_right [END]-->
+          <div class='clear'></div>
+          
+
+        </div>
+      </div>
+      <!--#container [END]-->
+
+      <!--#footer [START]-->
+      <div id="footer">
+        <noindex>
+          <div id='bottom_menu'>
+   <div class='holder'>
+     
+     <ul class='menu'>
+       
+       <li class='item   first'>
+         <a href='http://ua.112.ua/pro-nas' target=''>Про нас</a>
+       </li>
+       
+       <li class='item   '>
+         <a href='http://ua.112.ua/contacty' target=''>Контакти</a>
+       </li>
+       
+       <li class='item   '>
+         <a href='http://ua.112.ua/reklama' target=''>Реклама</a>
+       </li>
+       
+       <li class='item   '>
+         <a href='http://112.ua/vakansii' target=''>Вакансії</a>
+       </li>
+       
+       <li class='item   '>
+         <a href='http://uamap.112.ua/message' target=''>Зворотній зв’язок</a>
+       </li>
+       
+       <li class='item   '>
+         <a href='http://ua.112.ua/policy' target=''>Політика конфіденційності</a>
+       </li>
+       
+       <li class='item   last'>
+         <a href='http://ua.112.ua/logos' target=''>Лого</a>
+       </li>
+       
+     </ul>
+     
+      <div class='clear'></div>
+    </div>
+  </div><!-- (c) 2008 Gemius SA / gemiusHeatMap(GHM+XY) / http://www.1plus1.tv -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ghmxy_align = 'center';
+var ghmxy_type = 'percent';
+var ghmxy_identifier = 'bQAw20MD74Xp.Z1JdWaJgrbufdnwiC7oNz3VJlFncWv._7';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://ua.hit.gemius.pl/hmapxy.js"></script>
+        </noindex>
+        <div class="holder">
+          <div class ='bootom_text'>
+            <p>Усі права захищено та охороняються законом. Будь-яке використання матеріалів з сайту або програм телеканалу 112 Україна дозволяється при умові гіперпосилання на <a href="http://112.ua/">www.112.ua</a> у першому абзаці тексту. Керівництво сайту не несе відповідальності за достовірність матеріалів, що надійшли від наших читачів. Адміністрація сайту, публікуючи статті наших читачів, попереджує, що їх погляди можуть не співпадати з поглядом редакції. Передрук, копіювання або відтворення інформації, яка містить посилання на агентство "Українські Новини", в будь-якому вигляді суворо заборонено.</p>
+          </div>
+          <div class='counters'>
+            <noindex>
+              <div class='bigmir'>
+              <!--bigmir)net TOP 100-->
+              <script type="text/javascript" language="javascript"><!--
+              function BM_Draw(oBM_STAT){
+              document.write('<table cellpadding="0" cellspacing="0" border="0" style="display:inline;margin-right:4px;"><tr><td><div style="margin:0px;padding:0px;font-size:1px;width:88px;"><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_top.gif\') no-repeat bottom;"> </div><div style="font:10px Tahoma;background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_center.gif\');"><div style="text-align:center;"><a href="http://www.bigmir.net/" target="_blank" style="color:#0000ab;text-decoration:none;font:10px Tahoma;">bigmir<span style="color:#ff0000;">)</span>net</a></div><div style="margin-top:3px;padding: 0px 6px 0px 6px;color:#003596;"><div style="float:left;font:10px Tahoma;">'+oBM_STAT.hosts+'</div><div style="float:right;font:10px Tahoma;">'+oBM_STAT.hits+'</div></div><br clear="all"/></div><div style="background:url(\'http://i.bigmir.net/cnt/samples/diagonal/b59_bottom.gif\') no-repeat top;"> </div></div></td></tr></table>');
+              }
+              //-->
+              </script>
+              <script type="text/javascript" language="javascript"><!--
+              bmN=navigator,bmD=document,bmD.cookie='b=b',i=0,bs=[],bm={o:1,v:16928858,s:16928858,t:0,c:bmD.cookie?1:0,n:Math.round((Math.random()* 1000000)),w:0};
+              for(var f=self;f!=f.parent;f=f.parent)bm.w++;
+              try{if(bmN.plugins&&bmN.mimeTypes.length&&(x=bmN.plugins['Shockwave Flash']))bm.m=parseInt(x.description.replace(/([a-zA-Z]|\s)+/,''));
+              else for(var f=3;f<20;f++)if(eval('new ActiveXObject("ShockwaveFlash.ShockwaveFlash.'+f+'")'))bm.m=f}catch(e){;}
+              try{bm.y=bmN.javaEnabled()?1:0}catch(e){;}
+              try{bmS=screen;bm.v^=bm.d=bmS.colorDepth||bmS.pixelDepth;bm.v^=bm.r=bmS.width}catch(e){;}
+              r=bmD.referrer.replace(/^w+:\/\//,'');if(r&&r.split('/')[0]!=window.location.host){bm.f=escape(r).slice(0,400);bm.v^=r.length}
+              bm.v^=window.location.href.length;for(var x in bm) if(/^[ovstcnwmydrf]$/.test(x)) bs[i++]=x+bm[x];
+              bmD.write('<sc'+'ript type="text/javascript" language="javascript" src="http://c.bigmir.net/?'+bs.join('&')+'"></sc'+'ript>');
+              //-->
+              </script>
+              <noscript>
+              <a href="http://www.bigmir.net/" target="_blank"><img src="http://c.bigmir.net/?v16928858&s16928858&t2" width="88" height="31" alt="bigmir)net TOP 100" title="bigmir)net TOP 100" border="0" /></a>
+              </noscript>
+              <!--bigmir)net TOP 100-->
+              </div>
+              <div class='liru'>
+              <!--LiveInternet counter--><script type="text/javascript"><!--
+              document.write("<a href='http://www.liveinternet.ru/click' "+
+              "target=_blank><img src='//counter.yadro.ru/hit?t45.1;r"+
+              escape(document.referrer)+((typeof(screen)=="undefined")?"":
+              ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+              screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+              ";"+Math.random()+
+              "' alt='' title='LiveInternet' "+
+              "border='0' width='31' height='31'><\/a>")//-->
+              </script><!--/LiveInternet-->
+              </div>
+            </noindex>
+            <noindex>
+              <!-- Yandex.Metrika counter -->
+              <script type="text/javascript">
+              (function (d, w, c) {
+                  (w[c] = w[c] || []).push(function() {
+                      try {
+                          w.yaCounter23859979 = new Ya.Metrika({id:23859979,
+                                  webvisor:true,
+                                  clickmap:true,
+                                  trackLinks:true,
+                                  accurateTrackBounce:true});
+                      } catch(e) { }
+                  });
+
+                  var n = d.getElementsByTagName("script")[0],
+                      s = d.createElement("script"),
+                      f = function () { n.parentNode.insertBefore(s, n); };
+                  s.type = "text/javascript";
+                  s.async = true;
+                  s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+                  if (w.opera == "[object Opera]") {
+                      d.addEventListener("DOMContentLoaded", f, false);
+                  } else { f(); }
+              })(document, window, "yandex_metrika_callbacks");
+              </script>
+              <noscript><div><img src="//mc.yandex.ru/watch/23859979" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+              <!-- /Yandex.Metrika counter -->
+            </noindex>
+          </div>
+
+        </div>
+      </div>
+      <!--#footer [END]-->
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      window.___gcfg = {lang: 'ru'};
+
+      (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+      })();
+    </script>
+
+  
+</body>
+</html>

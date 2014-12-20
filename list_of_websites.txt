@@ -1,0 +1,77 @@
+Done:
+segodnya.ua
+unn.com.ua
+interfax.com.ua
+unian.ua
+censor.net.ua
+pravda.com.ua //can read from rss links only
+statuspress.com.ua //need to format pub date
+24tv.ua
+glavnoe.ua
+telegraf.com.ua
+zaxid.net // need to format pub date
+espreso.tv
+gordonua.com // need to format pub date, need to remove script comments from article body 
+tsn.ua//need to format article body
+expres.ua
+tvi.ua //need to format article body (not urgent)
+glavred.info
+rbc.ua
+focus.ua // no time, only date
+gazeta.ua
+fakty.ictv.ua
+tyzhden.ua
+ukrinform.ua
+kp.ua // no date, time only
+day.kiev.ua
+bbc.co.uk //no time!
+joinfo.ua
+vchaspik.ua
+depo.ua
+ipnews.in.ua
+newsoboz.org
+news.eizvestia.com
+pic.com.ua //no time, date only, need to formate date (decode error)
+news.finance.ua
+capital.ua
+radiosvoboda.org
+nr2.com.ua
+uainfo.org
+slovoidilo.ua
+btbtv.com.ua
+7dniv.info
+politica-ua.com
+nvua.net
+forbes.ua
+gazetavv.com
+novosti.dn.ua
+dailylviv.com
+112.ua
+
+
+
+//check for BeautifulSoup encodings issues, to resolve an issue with Obozrevatel, intvua.com, izvestia.in.ua, zik.ua, irtafax.com.ua, zn.ua, ukrpohliad.org, apostrophe.com.ua
+// http://galinfo.com.ua -?
+0678326896
+0936473626
+
+
+
+
+
+
+
+
+
+to do:
+rivne.com.ua
+bilahata.net
+dniprograd.org
+thekievtimes.ua
+4vlada.com
+www.mediastar.net.ua
+provse.te.ua
+socportal.info
+ipress.ua
+lb.ua
+vesti

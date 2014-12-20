@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html class="Main">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>В Николаевском зоопарке родился малыш амурского тигра (ФОТО) - 21 Октября 2014 - МедиаИнфо</title>
+<link type="text/css" rel="StyleSheet" href="/_st/my.css" />
+<link type="text/css" rel="StyleSheet" href="http://s43.ucoz.net/src/base.css" />
+<link type="text/css" rel="StyleSheet" href="http://s43.ucoz.net/src/layer1.css" />
+<script type="text/javascript" src="http://s43.ucoz.net/src/jquery-1.7.2.js"></script>
+<script type="text/javascript">window.ulb = {photoPage: "Перейти на страницу с фотографией.",closeBtn: "Закрыть", error: "Запрошенный контент не может быть загружен. Пожалуйста, попробуйте позже.", next: "Вперед", prev: "Предыдущий", btnPlay: "Начать слайдшоу", btnToggle: "Изменить размер"}</script>
+<link href="http://s43.ucoz.net/src/ulightbox/ulightbox.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="http://s43.ucoz.net/src/ulightbox/ulightbox.js"></script>
+<script type="text/javascript" src="http://s43.ucoz.net/src/uwnd.js?2"></script><style type="text/css">.UhideBlock {display:none}</style><link type="text/css" rel="StyleSheet" href="http://s43.ucoz.net/src/socCom.css" /><script type="text/javascript" src="http://s43.ucoz.net/cgi/uutils.fcg?a=soc_comment_get_data&site=dmediainfo"></script><script type="text/javascript" src="http://s43.ucoz.net/src/socCom.js"></script><script type="text/javascript">new Image().src = "http://counter.yadro.ru/hit;noadsru?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";"+Math.random();</script><script type="text/javascript">//<!--
+	(function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter25852319 = new Ya.Metrika({id:25852319, webvisor:true, clickmap:true, trackLinks:true, accurateTrackBounce:true}); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks");
+	function uSocialLogin(t){
+		var params = { 'vkontakte':{ 'width':790, 'height':400 }, 'facebook':{ 'width':950, 'height':520 }, 'yandex':{ 'width':870, 'height':515 }, 'google':{ 'width':700, 'height':360 }, 'twitter':{ 'width':800, 'height':400 } };
+		window.open('/'+t+'?ref='+window.location.href,'conwin','width='+params[t].width+',height='+params[t].height+',status=1,resizable=1,left='+parseInt((screen.availWidth/2)-(params[t].width/2))+',top='+parseInt((screen.availHeight/2)-(params[t].height/2)-20)+'screenX='+parseInt((screen.availWidth/2)-(params[t].width/2))+',screenY='+parseInt((screen.availHeight/2)-(params[t].height/2)-20));
+		try{yaCounter25852319.reachGoal(t);}catch(e){}
+		return false;
+	}
+//--></script>
+<link type="text/css" rel="StyleSheet" href="http://s43.ucoz.net/src/social.css" />
+</head>
+
+<script type="text/javascript" charset="utf-8">
+ (function(d,s){
+ var o=d.createElement(s);
+ o.async=true;
+ o.type="text/javascript";
+ o.charset="utf-8";
+ if (location.protocol == "https:") {
+ o.src="https://js-goods.redtram.com/ticker_11664.js";
+ }
+ else {
+ o.src="http://js.grt02.com/ticker_11664.js";
+ }
+ var x=d.getElementsByTagName(s)[0];
+ x.parentNode.insertBefore(o,x);
+ })(document,"script");
+</script>
+
+<body>
+<body>
+<!--U1AHEADER1Z--><script type="text/javascript" src="/js/Cufon.js"></script>
+<script type="text/javascript" src="/js/ZrnicCyr.js"></script>
+<script type="text/javascript">
+Cufon.replace(".HCLLogo", {color: "-linear-gradient(#eee, #ccc)", textShadow: "2px 2px 0px #000"});
+Cufon.replace(".GreenText", {color: "-linear-gradient(#75ac13, #689419)", textShadow: "2px 2px 0px #000"});
+</script>
+<div class="Header">
+<div class="HeaderContent">
+<div class="HCLLeft">
+<div class="HCLLogo">МЕДИАинфо</div>
+<div class="HCLDescr">Все новости Николаева</div>
+</div>
+<div class="HCLRight">
+<div class="LogLinks">
+
+<a href="javascript://" rel="nofollow" onclick="new _uWnd('LF',' ',-250,-110,{autosize:0,closeonesc:1,resize:1},{url:'/index/40'});return false;">Вход</a>
+<div style="height:6px"></div>
+<a href="/register">Регистрация</a>
+
+<div style="height:6px"></div>
+<a rel="sidebar" href="" onclick="this.title=document.title;this.href=document.URL;if(window.external &amp;&amp; (!document.createTextNode || (typeof(window.external.AddFavorite)=='unknown'))){window.external.AddFavorite(document.URL, document.title);return false}" title="Добавить страницу в Избранное">В закладки</a>
+</div>
+<div class="Contacts">
+Тел. +37281622239
+<br>
+Украина, г. Николаев, 54001
+<br>
+ул. Адмиральская, 27/1, а/я 106
+<br>
+redactor@mediainfo.mk.ua
+</div>
+</div>
+<div class="Clr"></div>
+</div>
+</div>
+<div class="SocialBar">
+<div class="SocialBarContent">
+<div class="SBLeft">
+<a href="#"><img src="/Images/SB_Vk.png" alt=""></a>
+<a href="#"><img src="/Images/SB_Facebook.png" alt=""></a>
+<a href="#"><img src="/Images/SB_Odnoclassniki.png" alt=""></a>
+<a href="#"><img src="/Images/SB_Google.png" alt=""></a>
+<a href="#"><img src="/Images/SB_Twitter.png" alt=""></a>
+<a href="http://mediainfo.mk.ua/news/rssya"><img src="/Images/SB_Rss.png" alt=""></a>
+</div>
+<div class="SBRight">
+<form onsubmit="this.sfSbm.disabled=true" method="get" action="/search/">
+<div class="mSearchBt"><input type="submit" name="sfSbm" value=""></div>
+<div class="mSearchStr"><input type="text" name="q" maxlength="50" size="27" value="Поиск..." onfocus="this.value=''" onblur="if (this.value==''){this.value='Поиск...'}"></div>
+</form>
+</div>
+</div>
+</div><!--/U1AHEADER1Z-->
+<div class="MainBlock">
+<div class="MainMenu"><div id="uMenuDiv1" class="uMenuV" style="position:relative;"><ul class="uMenuRoot">
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/"><span>Главная страница</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li style="position:relative;"><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><div class="uMenuArrow"></div><a href="http://mediainfo.mk.ua/news/"><span>Все новости</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div><ul style="display:none;">
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/kriminal_i_proishestvija/1-0-2"><span>Криминал и проишествия</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/oblastnaja_i_gorodskaja_vlast/1-0-3"><span>Областная и городская власть</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/obshhestvo_i_politika/1-0-6"><span>Общество и политика</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/promyshlennost_i_biznes/1-0-7"><span>Промышленность и бизнес</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/sportivnye_novosti/1-0-1"><span>Спортивные новости</span></a></div></li>
+<li><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/kultura/1-0-4"><span>Культура и искусство</span></a></div></li></ul></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="http://mediainfo.mk.ua/news/ja_znaju/1-0-8"><span>Я знаю</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-2"><span>О проекте</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/0-3"><span>Обратная связь</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li>
+<li><div class="umn-tl"><div class="umn-tr"><div class="umn-tc"></div></div></div><div class="umn-ml"><div class="umn-mr"><div class="umn-mc"><div class="uMenuItem"><a href="/index/reklama/0-8"><span>Сотрудничество</span></a></div></div></div></div><div class="umn-bl"><div class="umn-br"><div class="umn-bc"><div class="umn-footer"></div></div></div></div></li></ul></div><script type="text/javascript">$(function(){_uBuildMenu('#uMenuDiv1',0,document.location.href+'/','uMenuItemA','uMenuArrow',2500);})</script></div>
+<div class="Separator"></div>
+<!-- <middle> -->
+<img src="/Images/Image.jpg" alt="" >
+<div class="Separator"></div>
+<div class="LeftBlock">
+<!--U1CLEFTER1Z--><!-- Яндекс.Директ -->
+<div id="yandex_ad"></div>
+<script type="text/javascript">
+(function(w, d, n, s, t) {
+w[n] = w[n] || [];
+w[n].push(function() {
+Ya.Direct.insertInto(75727, "yandex_ad", {
+site_charset: "windows-1251",
+ad_format: "direct",
+font_size: 1,
+type: "vertical",
+limit: 8,
+title_font_size: 3,
+site_bg_color: "FFFFFF",
+header_bg_color: "FEEAC7",
+title_color: "0000CC",
+url_color: "006600",
+text_color: "000000",
+hover_color: "0066FF",
+favicon: true
+});
+});
+t = d.documentElement.firstChild;
+s = d.createElement("script");
+s.type = "text/javascript";
+s.src = "http://an.yandex.ru/system/context.js";
+s.setAttribute("async", "true");
+t.insertBefore(s, t.firstChild);
+})(window, document, "yandex_context_callbacks");
+</script>
+
+<br>
+
+<!-- <block1> -->
+
+<div class="boxTable">
+<div class="boxTitle"><!-- <bt> --><!--<s5171>-->Календарь<!--</s>--><!-- </bt> --></div>
+<div class="boxContent"><div align="center"><!-- <bc> --><table border="0" cellspacing="1" cellpadding="2" class="calTable"><tr><td align="center" class="calMonth" colspan="7"><a title="Сентябрь 2014" class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href='http'+'://mediainfo.mk.ua/news/2014-09';return false;">&laquo;</a>&nbsp; <a class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href='http'+'://mediainfo.mk.ua/news/2014-10';return false;">Октябрь 2014</a> &nbsp;<a title="Ноябрь 2014" class="calMonthLink" href="javascript://" rel="nofollow" onclick="window.location.href='http'+'://mediainfo.mk.ua/news/2014-11';return false;">&raquo;</a></td></tr><tr><td align="center" class="calWday">Пн</td><td align="center" class="calWday">Вт</td><td align="center" class="calWday">Ср</td><td align="center" class="calWday">Чт</td><td align="center" class="calWday">Пт</td><td align="center" class="calWdaySe">Сб</td><td align="center" class="calWdaySu">Вс</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-01" title="50 Сообщений">1</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-02" title="32 Сообщений">2</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-03" title="36 Сообщений">3</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-04" title="36 Сообщений">4</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-05" title="19 Сообщений">5</a></td></tr><tr><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-06" title="37 Сообщений">6</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-07" title="54 Сообщений">7</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-08" title="42 Сообщений">8</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-09" title="36 Сообщений">9</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-10" title="39 Сообщений">10</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-11" title="19 Сообщений">11</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-12" title="22 Сообщений">12</a></td></tr><tr><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-13" title="28 Сообщений">13</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-14" title="48 Сообщений">14</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-15" title="36 Сообщений">15</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-16" title="36 Сообщений">16</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-17" title="35 Сообщений">17</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-18" title="21 Сообщений">18</a></td><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-19" title="11 Сообщений">19</a></td></tr><tr><td align="center" class="calMdayIs"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-20" title="31 Сообщений">20</a></td><td align="center" class="calMdayIsA"><a class="calMdayLink" href="http://mediainfo.mk.ua/news/2014-10-21" title="36 Сообщений">21</a></td><td align="center" class="calMday">22</td><td align="center" class="calMday">23</td><td align="center" class="calMday">24</td><td align="center" class="calMday">25</td><td align="center" class="calMday">26</td></tr><tr><td align="center" class="calMday">27</td><td align="center" class="calMday">28</td><td align="center" class="calMday">29</td><td align="center" class="calMday">30</td><td align="center" class="calMday">31</td></tr></table><!-- </bc> --></div><div class="Clr"></div></div>
+</div>
+
+<!-- </block1> -->
+
+<center><script type="text/javascript">
+yottos_advertise = "fa17b7a2-584b-11e4-ae81-002590d75952";
+yottos_advertise_div_display = "none";
+</script>
+<script type="text/javascript" src="http://cdn.yottos.com/getmyad/_a.js"></script></center>
+
+<br>
+
+<div id="SinoptikInformer" style="width:200px;" class="SinoptikInformer type4c1"><div class="siHeader"><div class="siLh"><div class="siMh"><noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/" target="_blank">Погода</a></noindex> <noindex><a onmousedown="siClickCount();" class="siLogo" href="http://sinoptik.ua/" target="_blank"><img alt="Прогноз погоды" src="http://informers.sinoptik.ua/img/t.gif"></a></noindex> </div></div></div><div class="siBody"><div class="siTitle"><span id="siHeader"></span></div><div class="siCity"><div class="siCityName"> <noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-николаев" target="_blank">Погода в <span>Николаеве</span></a></noindex> </div><div id="siCont0" class="siBodyContent"><div class="siLeft"><div class="siTerm"></div><div class="siT" id="siT0"></div><div id="weatherIco0"></div></div><div class="siInf"><p>влажн.: <span id="vl0"></span></p><p>давл.: <span id="dav0"></span></p><p>ветер: <span id="wind0"></span></p></div></div></div><div class="siLinks"><span> <noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-николаев" target="_blank">на сегодня</a></noindex> <noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-николаев/завтра" target="_blank">завтра</a></noindex> <noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/погода-николаев/10-дней" target="_blank">10 дней</a></noindex> </span> <span> <noindex><a onmousedown="siClickCount();" href="http://sinoptik.ua/украина" target="_blank">в других городах</a></noindex> </span></div></div><div class="siFooter"><div class="siLf"><div class="siMf"></div></div></div></div><noindex><script type="text/javascript" charset="UTF-8" src="http://informers.sinoptik.ua/js3.php?title=3&amp;wind=1&amp;cities=303017267&amp;lang=ru"></script></noindex><br>
+
+<noindex><a href="http://mediainfo.mk.ua/news/nash_partner_basketbolnyj_on_lajn_magazin_the_dunk/2011-08-15-10330" target="_blank"> <img src="http://mediainfo.mk.ua/Photo18/banner_malenkij.gif" border="0" height="80" width="200"></a></noindex><br><br>
+
+<noindex><a href="http://mediainfo.mk.ua/news/nash_partner_magazin_modnoj_odezhdy_dlen/2013-10-07-15176" target="_blank"> <img src="http://i.imgur.com/5HzfSFC.jpg" border="0" height="80" width="200"></a></noindex><br><br>
+
+<noindex><a href="http://mediainfo.mk.ua/news/nash_informacionnyj_partner_sajt_infomarket/2011-08-15-10331" target="_blank"> <img src="http://mediainfo.mk.ua/Photo20/infomarket.jpg" border="0" height="80" width="200"></a></noindex><br><br>
+
+<!-- <block2> -->
+
+<!-- </block2> --><!--/U1CLEFTER1Z-->
+</div>
+<div class="RightBlock"><!-- <body> --><a href="http://mediainfo.mk.ua/"><!--<s5176>-->Главная<!--</s>--></a> &raquo; <a class="dateBar" href="http://mediainfo.mk.ua/news/2014-00">2014</a> &raquo; <a class="dateBar" href="http://mediainfo.mk.ua/news/2014-10">Октябрь</a> &raquo; <a class="dateBar" href="http://mediainfo.mk.ua/news/2014-10-21">21</a> &raquo; В Николаевском зоопарке родился малыш амурского тигра (ФОТО)
+<hr />
+
+<table border="0" width="100%" cellspacing="1" cellpadding="2" class="eBlock">
+<tr><td width="90%"><div class="eTitle"><div style="float:right;font-size:9px;">21:59 </div>В Николаевском зоопарке родился малыш амурского тигра (ФОТО)</div></td></tr>
+<tr><td class="eMessage"><div align="justify"><font face="Arial"><span style="font-size: 12pt;">В Николаевском зоопарке родился малыш амурского тигра, сообщает Интернет-издание <a href="http://mediainfo.mk.ua"><font color="#006400"><b>МедиаИнфо</b></font></a>. <br /><br /> В Николаевском зоопарке содержится три амурских тигра. Тигрицы Пенелопа и Агриппина были рождены в нашем зоопарке в 2005 году, а самца по кличке Гелиос, привезли в 2008 году из зоопарка расположенного в польском городе Познань. <br /> <br /> <div align="center"><iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/OEbea/embed"></iframe></div> <br /> Недавно у Агриппины и Гелиоса родился детеныш. <br /><br /> Как уточнили в администрации зверинца, это уже 47 детеныш тигра, рожденный в Николаевском зоопарке. Малышу только предстоит стать самым крупным представителем своего вида, а пока он под надежной защитой своей мамы - заботливой и нежной, которая рьяно защищает своего малыша и прячет подальше от посторонних глаз. Тигренок же, как и свойственно всем малышам, беззаботно кушает мамино молоко, спит и играет. Правда, когда он достигнет возраста 2 лет, он с удовольствием будет лакомиться 10 кг куском мяса в день, как и полагается этим хищникам. <br /><br /> Амурские тигры занесены в Международную Красную книгу. По данным амурского филиала Всемирного фонда дикой природы, за последние несколько лет количество тигров увеличилось. В настоящее время на Дальнем Востоке обитает всего примерно 500 особей амурских тигров, но это вовсе не означает, что их популяция восстановлена. Много лет люди уничтожали естественные местообитания хищника, истребляли кормовую базу тигра и беспощадно убивали из-за красивой шкуры. Еще не одно десятилетие должно пройти, чтобы самая большая и сильная кошка планеты чувствовала себя в безопасности рядом с человеком.</span></font></div> <br /> <b><font size="2" style="font-size: 10pt;" face="Arial">Источник: <span style="color: rgb(0, 100, 0);"><a href="http://mediainfo.mk.ua/">МедиаИнфо</a></span></font></b> </td></tr>
+<tr><td colspan="2" class="eDetails">
+<div style="float:right">
+		<style type="text/css">
+			.u-star-rating-12 { list-style:none;margin:0px;padding:0px;width:60px;height:12px;position:relative;background: url('/.s/img/stars/3/12.png') top left repeat-x }
+			.u-star-rating-12 li{ padding:0px;margin:0px;float:left }
+			.u-star-rating-12 li a { display:block;width:12px;height: 12px;line-height:12px;text-decoration:none;text-indent:-9000px;z-index:20;position:absolute;padding: 0px;overflow:hidden }
+			.u-star-rating-12 li a:hover { background: url('/.s/img/stars/3/12.png') left center;z-index:2;left:0px;border:none }
+			.u-star-rating-12 a.u-one-star { left:0px }
+			.u-star-rating-12 a.u-one-star:hover { width:12px }
+			.u-star-rating-12 a.u-two-stars { left:12px }
+			.u-star-rating-12 a.u-two-stars:hover { width:24px }
+			.u-star-rating-12 a.u-three-stars { left:24px }
+			.u-star-rating-12 a.u-three-stars:hover { width:36px }
+			.u-star-rating-12 a.u-four-stars { left:36px }
+			.u-star-rating-12 a.u-four-stars:hover { width:48px }
+			.u-star-rating-12 a.u-five-stars { left:48px }
+			.u-star-rating-12 a.u-five-stars:hover { width:60px }
+			.u-star-rating-12 li.u-current-rating { top:0 !important; left:0 !important;margin:0 !important;padding:0 !important;outline:none;background: url('/.s/img/stars/3/12.png') left bottom;position: absolute;height:12px !important;line-height:12px !important;display:block;text-indent:-9000px;z-index:1 }
+		</style><script type="text/javascript">var usrarids={};function ustarrating(id,mark){if (!usrarids[id]){usrarids[id]=1;$(".u-star-li-"+id).hide();_uPostForm('',{type:'POST',url:'/news/',data:{'a':'65','id':id,'mark':mark,'mod':'news','ajax':'2'}});}}</script><ul id="uStarRating25539" class="uStarRating25539 u-star-rating-12" title="Рейтинг: 0.0/0">
+<li class="u-current-rating uCurStarRating25539" id="uCurStarRating25539" style="width:0%;"></li>
+<li class="u-star-li-25539"><a href="#" onclick="ustarrating('25539',1);return false;" class="u-one-star">1</a></li>
+<li class="u-star-li-25539"><a href="#" onclick="ustarrating('25539',2);return false;" class="u-two-stars">2</a></li>
+<li class="u-star-li-25539"><a href="#" onclick="ustarrating('25539',3);return false;" class="u-three-stars">3</a></li>
+<li class="u-star-li-25539"><a href="#" onclick="ustarrating('25539',4);return false;" class="u-four-stars">4</a></li>
+<li class="u-star-li-25539"><a href="#" onclick="ustarrating('25539',5);return false;" class="u-five-stars">5</a></li></ul></div>
+<!--<s3179>-->Категория<!--</s>-->: <a href="http://mediainfo.mk.ua/news/obshhestvo_i_politika/1-0-6">Общество и политика</a> |
+<!--<s3177>-->Просмотров<!--</s>-->: 155 |
+<!--<s3178>-->Добавил<!--</s>-->: <a href="javascript://" rel="nofollow" onclick="window.open('http://mediainfo.mk.ua/index/8-3','up3','scrollbars=1,top=0,left=0,resizable=1,width=680,height=350');return false;">WebDesigner</a>
+
+| <!--<s3119>-->Рейтинг<!--</s>-->: <span id="entRating25539">0.0</span>/<span id="entRated25539">0</span></td></tr>
+</table>
+
+<script type="text/javascript" src="//yastatic.net/share/share.js"
+charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru"
+ data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,gplus"
+></div>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr><td width="60%" height="25"><!--<s5183>-->Всего комментариев<!--</s>-->: <b>0</b></td><td align="right" height="25"></td></tr>
+<tr><td colspan="2"><script type="text/javascript">function ban_item(id){if (confirm('Вы действительно хотите активировать данный материал?')){var img=document.getElementById('bi'+id);img.src='http://s43.ucoz.net/img/fr/EmnAjax.gif';_uPostForm('',{url:'http://mediainfo.mk.ua/index/86-'+id+'-1'});}}
+			function del_soc_item(id, as_spam){
+                if (confirm('Вы подтверждаете удаление?')){
+                    var img=document.getElementById('di'+id);img.src='http://s43.ucoz.net/img/fr/EmnAjax.gif';
+                    _uPostForm('',{url:'http://mediainfo.mk.ua/index/',type:'POST',data:{ssid:'273644777114463615764',a:'38',s:id, soc_type: scurrent, sdata: ssdata[scurrent], as_spam: (as_spam ? 1 : 0) }});
+                }
+			}
+			function del_item(id,as_spam){
+                if (confirm('Вы подтверждаете удаление?')){
+                    var img=document.getElementById('di'+id);img.src='http://s43.ucoz.net/img/fr/EmnAjax.gif';
+                    _uPostForm('',{url:'http://mediainfo.mk.ua/index/',type:'POST',data:{ssid:'273644777114463615764',a:'38',s:id,as_spam:(as_spam?1:0)}});
+                }
+			}
+			</script>
+			<div id="myGrid" style="display:none;">
+				<div style="position:fixed;width:100%;text-align:center;padding-top:250px;">
+					<img alt="" src="http://s43.ucoz.net/img/ma/m/i3.gif" style="border:0;width:220px;height:19px;" />
+				</div>
+			</div>
+			<script type="text/javascript">
+				function spages(p,link) {
+					if(1) {
+						//document.location.href = '/'+'news'+'/'+'v_nikolaevskom_zooparke_rodilsja_malysh_amurskogo_tigra_foto/2014-10-21-25539-0-'+p;
+						document.location.href = link.href;
+						return;
+					}
+					try {
+						document.getElementById('myGrid').style.cssText = 'position:absolute; z-index:8; top:0;left:0; display:normal; background: url(\'http://s43.ucoz.net/img/fr/g.gif\'); text-align:center; width:'+document.body.scrollWidth+'px; height:'+document.body.scrollHeight+'px;';
+					} catch(e) {
+					};
+					_uPostForm('',{url:'/news/v_nikolaevskom_zooparke_rodilsja_malysh_amurskogo_tigra_foto/2014-10-21-25539-987-'+p+'-'+Math.floor(Math.random()*1e8),type:'POST'});
+				}
+			</script><a name="comments"></a><div id="newEntryT"></div><div id="allEntries"></div><div id="newEntryB"></div><script type="text/javascript">
+			
+		if( !window.uCoz ) window.uCoz = {};
+		if( !uCoz.spam ) uCoz.spam = {};
+		if( !uCoz.spam.sign ) uCoz.spam.sign = {};
+		
+		if( !uCoz.spam.config ) uCoz.spam.config = {};
+		
+		uCoz.spam.config.scopeID  = 0;
+		uCoz.spam.config.idPrefix = 'comEnt';
+		
+		uCoz.spam.sign.spam            = 'Спам';
+		uCoz.spam.sign.notSpam         = 'Не спам';
+		uCoz.spam.sign.hidden          = 'Спам-сообщение скрыто.';
+		uCoz.spam.sign.shown           = 'Спам-сообщение показано.';
+		uCoz.spam.sign.show            = 'Показать';
+		uCoz.spam.sign.hide            = 'Скрыть';
+		uCoz.spam.sign.admSpam         = 'Разрешить жалобы';
+		uCoz.spam.sign.admSpamTitle    = 'Разрешить пользователям сайта помечать это сообщение как спам';
+		uCoz.spam.sign.admNotSpam      = 'Это не спам';
+		uCoz.spam.sign.admNotSpamTitle = 'Пометить как не-спам, запретить пользователям жаловаться на это сообщение';
+		
+		
+		
+		uCoz.spam.moderPanelNotSpamClick = function(elem) {
+			var waitImg = $('<img align="absmiddle" src="/.s/img/fr/EmnAjax.gif">');
+			var elem = $(elem);
+			elem.find('img').hide();
+			elem.append(waitImg);
+			var messageID = elem.attr('data-message-id');
+			var notSpam   = elem.attr('data-not-spam') ? 0 : 1; // invert - 'data-not-spam' should contain CURRENT 'notspam' status!
+			$.post('/index/', {
+				a          : 101,
+				scope_id   : uCoz.spam.config.scopeID,
+				message_id : messageID,
+				not_spam   : notSpam
+			}).then(function(response) {
+				waitImg.remove();
+				elem.find('img').show();
+				if( response.error ) {
+					alert(response.error);
+					return;
+				};
+				if( response.status == 'admin_message_not_spam' ) {
+					elem.attr('data-not-spam', true).find('img').attr('src', '/.s/img/spamfilter/notspam-active.gif');
+					$('#del-as-spam-' + messageID).hide();
+				} else {
+					elem.removeAttr('data-not-spam').find('img').attr('src', '/.s/img/spamfilter/notspam.gif');
+					$('#del-as-spam-' + messageID).show();
+				};
+				console.log(response);
+			});
+			return false;
+		};
+		
+		uCoz.spam.report = function(scopeID, messageID, notSpam, callback, context) {
+			return $.post('/index/', {
+				a: 101,
+				scope_id   : scopeID,
+				message_id : messageID,
+				not_spam   : notSpam
+			}).then(function(response) {
+				if( callback ) {
+					callback.call(context || window, response, context);
+				} else {
+					window.console && console.log && console.log('uCoz.spam.report: message #' + messageID, response);
+				};
+			});
+		};
+		
+		uCoz.spam.reportDOM = function(event) {
+			if( event.preventDefault ) event.preventDefault();
+			var elem      = $(this);
+			if( elem.hasClass('spam-report-working') ) return false;
+			var scopeID   = uCoz.spam.config.scopeID;
+			var messageID = elem.attr('data-message-id');
+			var notSpam   = elem.attr('data-not-spam');
+			var target    = elem.parents('.report-spam-target').eq(0);
+			var height    = target.outerHeight(true);
+			var margin    = target.css('margin-left');
+			elem.html('<img src="/.s/img/wd/1/ajaxs.gif">').addClass('report-spam-working');
+			uCoz.spam.report(scopeID, messageID, notSpam, function(response, context) {
+				context.elem.text('').removeClass('report-spam-working');
+				window.console && console.log && console.log(response); // DEBUG
+				response.warning && window.console && console.warn && console.warn( 'uCoz.spam.report: warning: ' + response.warning, response );
+				if( response.warning && !response.status ) {
+					// non-critical warnings, may occur if user reloads cached page:
+					if( response.warning == 'already_reported' ) response.status = 'message_spam';
+					if( response.warning == 'not_reported'     ) response.status = 'message_not_spam';
+				};
+				if( response.error ) {
+					context.target.html('<div style="height: ' + context.height + 'px; line-height: ' + context.height + 'px; color: red; font-weight: bold; text-align: center;">' + response.error + '</div>');
+				} else if( response.status ) {
+					if( response.status == 'message_spam' ) {
+						context.elem.text(uCoz.spam.sign.notSpam).attr('data-not-spam', '1');
+						var toggle = $('#report-spam-toggle-wrapper-' + response.message_id);
+						if( toggle.length ) {
+							toggle.find('.report-spam-toggle-text').text(uCoz.spam.sign.hidden);
+							toggle.find('.report-spam-toggle-button').text(uCoz.spam.sign.show);
+						} else {
+							toggle = $('<div id="report-spam-toggle-wrapper-' + response.message_id + '" class="report-spam-toggle-wrapper" style="' + (context.margin ? 'margin-left: ' + context.margin : '') + '"><span class="report-spam-toggle-text">' + uCoz.spam.sign.hidden + '</span> <a class="report-spam-toggle-button" data-target="#' + uCoz.spam.config.idPrefix + response.message_id + '" href="javascript://">' + uCoz.spam.sign.show + '</a></div>').hide().insertBefore(context.target);
+							uCoz.spam.handleDOM(toggle);
+						};
+						context.target.addClass('report-spam-hidden').fadeOut('fast', function() {
+							toggle.fadeIn('fast');
+						});
+					} else if( response.status == 'message_not_spam' ) {
+						context.elem.text(uCoz.spam.sign.spam).attr('data-not-spam', '0');
+						$('#report-spam-toggle-wrapper-' + response.message_id).fadeOut('fast');
+						$('#' + uCoz.spam.config.idPrefix + response.message_id).removeClass('report-spam-hidden').show();
+					} else if( response.status == 'admin_message_not_spam' ) {
+						elem.text(uCoz.spam.sign.admSpam).attr('title', uCoz.spam.sign.admSpamTitle).attr('data-not-spam', '0');
+					} else if( response.status == 'admin_message_spam' ) {
+						elem.text(uCoz.spam.sign.admNotSpam).attr('title', uCoz.spam.sign.admNotSpamTitle).attr('data-not-spam', '1');
+					} else {
+						alert('uCoz.spam.report: unknown status: ' + response.status);
+					};
+				} else {
+					context.target.remove(); // no status returned by the server - remove message (from DOM).
+				};
+			}, { elem: elem, target: target, height: height, margin: margin });
+			return false;
+		};
+		
+		uCoz.spam.handleDOM = function(within) {
+			within = $(within || 'body');
+			within.find('.report-spam-wrap').each(function() {
+				var elem = $(this);
+				elem.parent().prepend(elem);
+			});
+			within.find('.report-spam-toggle-button').not('.report-spam-handled').click(function(event) {
+				if( event.preventDefault ) event.preventDefault();
+				var elem    = $(this);
+				var wrapper = elem.parents('.report-spam-toggle-wrapper');
+				var text    = wrapper.find('.report-spam-toggle-text');
+				var target  = elem.attr('data-target');
+				target      = $(target);
+				target.slideToggle('fast', function() {
+					if( target.is(':visible') ) {
+						wrapper.addClass('report-spam-toggle-shown');
+						text.text(uCoz.spam.sign.shown);
+						elem.text(uCoz.spam.sign.hide);
+					} else {
+						wrapper.removeClass('report-spam-toggle-shown');
+						text.text(uCoz.spam.sign.hidden);
+						elem.text(uCoz.spam.sign.show);
+					};
+				});
+				return false;
+			}).addClass('report-spam-handled');
+			within.find('.report-spam-remove').not('.report-spam-handled').click(function(event) {
+				if( event.preventDefault ) event.preventDefault();
+				var messageID = $(this).attr('data-message-id');
+				del_item(messageID, 1);
+				return false;
+			}).addClass('report-spam-handled');
+			within.find('.report-spam-btn').not('.report-spam-handled').click(uCoz.spam.reportDOM).addClass('report-spam-handled');
+			window.console && console.log && console.log('uCoz.spam.handleDOM: done.');
+            try { if (uCoz.manageCommentControls) { uCoz.manageCommentControls() } } catch(e) { window.console && console.log && console.log('manageCommentControls: fail.'); }
+			return this;
+		};
+	
+			uCoz.spam.handleDOM();
+		</script></td></tr>
+<tr><td colspan="2" align="center"></td></tr>
+<tr><td colspan="2" height="10"></td></tr>
+</table>
+
+
+<center><script type="text/javascript">
+yottos_advertise = "44cb1018-5834-11e4-94cb-002590d75952";
+yottos_advertise_div_display = "none";
+</script>
+<script type="text/javascript" src="http://cdn.yottos.com/getmyad/_a.js"></script></center>
+
+<div id="n4p_11771">Loading...</div>
+<script type="text/javascript" charset="utf-8">
+(function(d,s){
+var o=d.createElement(s);
+o.async=true;
+o.type="text/javascript";
+o.charset="utf-8";
+if (location.protocol == "https:") {
+o.src="https://js-goods.redtram.com/ticker_11771.js";
+}
+else {
+o.src="http://js.grt02.com/ticker_11771.js";
+}
+var x=d.getElementsByTagName(s)[0];
+x.parentNode.insertBefore(o,x);
+})(document,"script");
+</script>
+
+<div id="rt-n-4422"><a href="http://ru.redtram.com/catalogue/sports/"
+target="_blank">Новости спорта</a></div>
+<script type="text/javascript" language="javascript" charset="UTF-8"
+src="http://js.ru.redtram.com/n4p/m/e/mediainfo.mk.ua_4422.js"></script>
+
+
+<script type="text/javascript">function addcom(f){if (document.getElementById('addcBut')){document.getElementById('addcBut').disabled=true;}else {try{document.addform.submit.disabled=true;}catch(e){}}if (document.getElementById('eMessage')){document.getElementById('eMessage').innerHTML='<span style="color:#8B8B8B"><img src="http://s43.ucoz.net/img/ma/m/i2.gif" border="0" align="absmiddle" width="13" height="13"> Идет передача данных...</span>';}_uPostForm('acform',{type:'POST',url:'http://mediainfo.mk.ua/index/'});}var _y8M=''; function _dS(s){ var i;var r=""; var l=s.length-1; var k=s.substr(l,1); for (i=0;i<l;i++){ c=s.charCodeAt(i)-k;  if(c<32){ c=127-(32-c);} r+=String.fromCharCode(c); } return r;} _y8M=_dS('Ansuzy%y~ujB\'mniijs\'%sfrjB\'xtx\'%{fqzjB\'69==89<5;:\'%4C5');</script>
+<div id="postFormContent" class="">
+<form method="post" name="addform" id="acform" style="margin:0" action="http://mediainfo.mk.ua/index/" onsubmit="addcom();return false;"> <script type="text/javascript">document.write(_y8M)</script>
+
+
+<table border="0" width="100%" cellspacing="1" cellpadding="2" class="commTable">
+<tr><td class="commTd2" colspan="2"><div class="commError" id="eMessage" align="center"></div></td></tr>
+
+<tr><td width="15%" class="commTd1" nowrap>Имя *:</td><td class="commTd2"><input class="commFl" type="text" name="name" value="" size="30" maxlength="60"></td></tr>
+<tr><td class="commTd1">Email:</td><td class="commTd2"><input class="commFl" type="text" name="email" value="" size="30" maxlength="60"></td></tr>
+
+<tr><td class="commTd2" colspan="2"><div style="padding-bottom:2px"></div><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top"><textarea class="commFl" style="height:135px;" rows="8" name="message" id="message" cols="50"></textarea></td></tr></table></td></tr>
+
+
+<tr><td class="commTd1" nowrap>Код *:</td><td class="commTd2"><input class="securityCode" type="text" name="code" size="7" maxlength="6" style="padding:4px;font-size:20px;" /><input type="hidden" name="seckey" value="2940622250564997158" /> <img alt="" style="margin:0;padding:0;border:0;cursor:pointer;vertical-align:top;" id="secuImgC" align="absmiddle" title="Обновить код безопасности" onclick="this.src='http://mediainfo.mk.ua/secure/?k=2940622250564997158;m=addcom43204801;tm='+Math.random();" src="http://mediainfo.mk.ua/secure/?k=2940622250564997158;m=addcom43204801;tm=1413920149" /> <img alt="" src="http://s43.ucoz.net/img/ma/refresh.gif" border="0" align="absmiddle" style="cursor:pointer;" onclick="document.getElementById('secuImgC').src='http://mediainfo.mk.ua/secure/?k=2940622250564997158;m=addcom43204801;tm='+Math.random();" title="Обновить код безопасности" /></td></tr>
+<tr><td class="commTd2" colspan="2" align="center"><input type="submit" class="commSbmFl" id="addcBut" name="submit" value="- Добавить комментарий -"></td></tr></table>
+<input type="hidden" name="ssid" value="273644777114463615764" /><input type="hidden" name="a" value="36" /><input type="hidden" name="m" value="2" /><input type="hidden" name="id" value="25539" />
+<input id="csoc_type" type="hidden" name="soc_type"/><input id="cdata" type="hidden" name="data"/>
+</form>
+</div>
+
+
+<!-- News Join -->
+<nofollow><style>
+.join_informer_2736 * { border: none; padding: 0; margin: 0; }
+.join_informer_2736 { text-align:left; clear: both; padding: 5px;}
+.join_informer_2736 a.join_link, a.join_text {font-size: 13px; font-family: Tahoma; margin-bottom:10px; color:#689419;text-decoration:none; font-weight:bold;}
+.join_informer_2736 a.join_link:hover, a.join_text:hover { color:#689419;text-decoration:underline;}
+.join_informer_2736 .join_img {width: 100px; height: 100px; margin-right: 2px; }
+</style>
+<div class="join_informer_2736" id="join_informer_2736">
+<noindex><a href="http://weather.join.ua">Погода</a></noindex>, <noindex><a href="http://news.join.ua">Новости</a></noindex>, загрузка...
+</div>
+<!-- Асинхронный код, 15.010.2013 -->
+<script type="text/javascript"> (function() {
+var i = document.createElement("script"); i.type = "text/javascript"; i.async = true; i.charset = "UTF-8";
+i.src = "http://partner.join.com.ua/async/2736/";
+var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(i, s);
+})();</script></nofollow>
+<!-- News Join -->
+
+
+<!-- </body> --></div>
+<div class="Clr"></div>
+<!-- </middle> -->
+<div class="Footer">
+<!--U1BFOOTER1Z--><div class="Separator" style="margin:15px 0px"></div>
+<!-- <copy> -->Интернет-издание МедиаИнфо © 2014. Свидетельство о регистрации СМИ: МК № 1040-536/Р<br />Использование материалов Интернет-издания МедиаИнфо допускается только при условии ссылки (для Интернет-изданий - прямой, открытой гиперссылки) на конкретную новость или материал. Мнение редакции Интернет-издания МедиаИнфо не всегда совпадает с точкой зрения авторов публикаций.<br>Все права защищены законодательством Украины и принадлежат Интернет-изданию МедиаИнфо<!-- </copy> -->
+<!--LiveInternet counter--><nofollow><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t26.15;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показане число відвідувачів за"+
+" сьогодні' "+
+"border='0' width='88' height='15'><\/a>")
+//--></script></nofollow><!--/LiveInternet-->
+
+<!-- News Join -->
+<nofollow><!-- In the place of insertion -->
+<style>
+.join_informer_1709 {text-align:left; clear: both; padding: 5px;}
+.join_informer_1709 a.join_link, a.join_text {text-transform: none;
+font-size: 12px; font-family: Tahoma; padding: 0px 0px 0px 0px;
+margin:0px 0px 10px 0px;color:#000000;text-decoration:none;
+font-weight:normal;}
+.join_informer_1709 a.join_link:hover, a.join_text:hover
+{text-transform: none; font-size: 12px; font-family: Tahoma; padding:
+0px 0px 0px 0px; margin:0px 0px 10px
+0px;color:#000000;text-decoration:underline;}
+.join_informer_1709 .join_img {width: 80px; height: 80px; margin-right:
+2px; }
+</style>
+<div class="join_informer_1709" id="join_informer_1709">
+<noindex><a href="http://weather.join.ua">Погода</a></noindex>, <noindex><a
+href="http://news.join.ua">Новости</a></noindex>, загрузка...
+</div>
+<!-- Before </body> -->
+<script src="http://partner.join.com.ua/informers/1709/" 
+charset="UTF-8"></script>
+<script>ShowInformer(document.getElementById("join_informer_1709"));</script></nofollow>
+<!-- News Join -->
+<noindex><!-- "' --><span class="pb11MzKq">Хостинг от <a href="http://www.ucoz.ru/" title="Создать сайт бесплатно">uCoz</a></span></noindex><br />
+<script type="text/javascript">
+<!--
+var _acic={dataProvider:140};(function(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="//www2.acint.net/aci.js";var t=document.getElementsByTagName("script")[0];t.parentNode.insertBefore(e,t)})()
+//-->
+</script><!--1695183103731--><!--/U1BFOOTER1Z-->
+</div>
+</div>
+<script type="text/javascript" src="/js/Plagin.js"></script>
+</body>
+</html><div><script type="text/javascript">new Image().src = "http://ucounter.ucoz.net/"+Math.random()+".gif?cid=ucoz&r64="+window.btoa(document.referrer)+"&cb="+Math.random();</script><span id="openstat2324925"></span><script type="text/javascript">var openstat = { counter: 2324925, next: openstat };(function(d, t, p) {var j = d.createElement(t); j.async = true; j.type = "text/javascript";j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);})(document, "script", document.location.protocol);</script></div><div id="utbr8214" rel="s43"></div>
+<!-- 0.01925 (s43) -->
